@@ -40,10 +40,6 @@ Le module CPP03 approfondit les concepts de **l'héritage** en C++.
 
 ## 🖼️ Note du projet
 
-<p align="center">
-  <img width="198" height="168" alt="image" src="YOUR_GRADE_IMAGE_HERE" />
-</p>
-
 ---
 
 ## 🫐 Auteur
@@ -95,10 +91,6 @@ Through a series of exercises, it introduces derived classes, code reuse, and cl
 ---
 
 ## 🖼️ Project Grade
-
-<p align="center">
-  <img width="198" height="168" alt="image" src="YOUR_GRADE_IMAGE_HERE" />
-</p>
 
 ---
 
